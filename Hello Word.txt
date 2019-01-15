@@ -1,7 +1,5 @@
 print <'hello word!'>
 print <'Hello Everybody!'>
-<<<<<<< HEAD
-=======
 print <'Just Hello!'>
 <!- Что-то немного запуталсяя -!>
->>>>>>> master
+
