@@ -1,6 +1,6 @@
-print <'hello word!'>
-print <'Hello Everybody!'>
-print <'Just Hello!'>
-<!- Что-то немного запуталсяя -!>
-print <'Hello my dear friend!'>
-print <'Glad to see You!'>
+print <'hello word!;'>
+print <'Hello Everybody!;'>
+print <'Just Hello!;'>
+<!- пїЅпїЅпїЅ-пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ -!>
+print <'Hello my dear friend!;'>
+print <'Glad to see You!;'>
