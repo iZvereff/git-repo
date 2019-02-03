@@ -1,6 +1,7 @@
-print <'hello word!;'>
+﻿print <'hello word!;'>
 print <'Hello Everybody!;'>
 print <'Just Hello!;'>
 <!- ���-�� ������� ���������� -!>
 print <'Hello my dear friend!;'>
 print <'Glad to see You!;'>
+ok
